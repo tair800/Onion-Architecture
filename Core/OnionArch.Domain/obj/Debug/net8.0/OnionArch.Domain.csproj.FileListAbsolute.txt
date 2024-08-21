@@ -1,0 +1,11 @@
+C:\Users\taira\source\repos\OnionArch\Core\OnionArch.Domain\bin\Debug\net8.0\OnionArch.Domain.deps.json
+C:\Users\taira\source\repos\OnionArch\Core\OnionArch.Domain\bin\Debug\net8.0\OnionArch.Domain.dll
+C:\Users\taira\source\repos\OnionArch\Core\OnionArch.Domain\bin\Debug\net8.0\OnionArch.Domain.pdb
+C:\Users\taira\source\repos\OnionArch\Core\OnionArch.Domain\obj\Debug\net8.0\OnionArch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taira\source\repos\OnionArch\Core\OnionArch.Domain\obj\Debug\net8.0\OnionArch.Domain.AssemblyInfoInputs.cache
+C:\Users\taira\source\repos\OnionArch\Core\OnionArch.Domain\obj\Debug\net8.0\OnionArch.Domain.AssemblyInfo.cs
+C:\Users\taira\source\repos\OnionArch\Core\OnionArch.Domain\obj\Debug\net8.0\OnionArch.Domain.csproj.CoreCompileInputs.cache
+C:\Users\taira\source\repos\OnionArch\Core\OnionArch.Domain\obj\Debug\net8.0\OnionArch.Domain.dll
+C:\Users\taira\source\repos\OnionArch\Core\OnionArch.Domain\obj\Debug\net8.0\refint\OnionArch.Domain.dll
+C:\Users\taira\source\repos\OnionArch\Core\OnionArch.Domain\obj\Debug\net8.0\OnionArch.Domain.pdb
+C:\Users\taira\source\repos\OnionArch\Core\OnionArch.Domain\obj\Debug\net8.0\ref\OnionArch.Domain.dll

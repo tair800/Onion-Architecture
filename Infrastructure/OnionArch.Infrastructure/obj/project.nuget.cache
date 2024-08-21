@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YsY9npXHnX4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\taira\\source\\repos\\OnionArch\\Infrastructure\\OnionArch.Infrastructure\\OnionArch.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taira\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
